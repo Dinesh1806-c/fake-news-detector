@@ -1,0 +1,8 @@
+models/
+*.pkl
+dataset/
+*.csv
+__pycache__/
+*.pyc
+.DS_Store
+.env
